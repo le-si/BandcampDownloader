@@ -482,6 +482,6 @@ Colar páginas de artistas: http://[artista]/.bandcamp.com e marque “☑ Baixa
     <value>O número máximo de álbuns que podem ser baixados simultaneamente</value>
   </data>
   <data name="textBoxMaxConcurrentTracksDownloads_ToolTip" xml:space="preserve">
-    <value>O número máximo de faixas (do mesmo álbum) que podem ser baixadas simultaneamente.</value>
+    <value>O número máximo de faixas (do mesmo álbum) que podem ser baixadas simultaneamente</value>
   </data>
 </root>
