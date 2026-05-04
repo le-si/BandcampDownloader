@@ -352,7 +352,8 @@
     <value>恢复初始设置</value>
   </data>
   <data name="messageBoxResetSettingsText" xml:space="preserve">
-    <value>确认要恢复初始设置吗？</value>
+    <value>确认要恢复初始设置吗？
+此操作无法撤销</value>
   </data>
   <data name="messageBoxUnhandledException" xml:space="preserve">
     <value>发生了无法处理的错误。程序将会关闭。
